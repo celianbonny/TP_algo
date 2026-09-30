@@ -18,5 +18,16 @@
     <ClCompile Include="basics.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
+    <ClCompile Include="askeven.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="partie1_4.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="askeven.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

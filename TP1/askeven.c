@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include "askeven.h"
 
-int main() {
-	askEven();
-	return 0;
+void askEven() {
+	printf("maybe");
 }

@@ -19,7 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="askeven.c" />
     <ClCompile Include="basics.c" />
+    <ClCompile Include="partie1_4.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="askeven.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
