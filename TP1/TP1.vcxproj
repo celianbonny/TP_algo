@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="askeven.c" />
     <ClCompile Include="basics.c" />
+    <ClCompile Include="partie1_2.c" />
     <ClCompile Include="partie1_4.c" />
   </ItemGroup>
   <ItemGroup>
