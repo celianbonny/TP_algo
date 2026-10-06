@@ -3,7 +3,7 @@
 
 
 /* 1.1 EGAL : compare deux chaines sans tenir compte de la casse */
-
+/*
 int EGAL(char gauche[], char droite[])
 {
     int i = 0;
@@ -31,3 +31,4 @@ int main()
     printf("%d\n", EGAL("Bonjour", "Salut"));      
     return 0;
 }
+*/

@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TP2.c">
+    <ClCompile Include="egale.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Dansliste.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>
