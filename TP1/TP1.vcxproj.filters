@@ -24,7 +24,10 @@
     <ClCompile Include="partie1_4.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
-    <ClCompile Include="partie1_2.c">
+    <ClCompile Include="partie2.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="partie3.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>

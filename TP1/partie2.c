@@ -41,7 +41,7 @@ int main() {
 */
 
 // partie 2.3 polynome basique
-
+/*
 int main() {
 	int calcul1, calcul2, calcul3, calcul4, w = -2, x = 10, y = 5, z = 3;
 	calcul1 = (3 * w * w) - (8 * w) + 7;
@@ -55,3 +55,4 @@ int main() {
 	printf("Pour z = %d, le polynome vaut : %d\n", z, calcul4);
 
 }
+*/
